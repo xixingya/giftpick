@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6630811-458f-49b9-a40c-b84d80b68065" name="Default Changelist" comment="change to https" />
+    <list default="true" id="a6630811-458f-49b9-a40c-b84d80b68065" name="Default Changelist" comment="add weibo uid" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635732150988</updated>
-      <workItem from="1635732152642" duration="1153000" />
+      <workItem from="1635732152642" duration="1502000" />
     </task>
     <task id="LOCAL-00001" summary="change to https">
       <created>1635733170859</created>
@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635733236779</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add cname">
+      <created>1635733456979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635733456979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add weibo uid">
+      <created>1635733578186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635733578186</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,7 +89,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change to https" />
-    <option name="LAST_COMMIT_MESSAGE" value="change to https" />
+    <MESSAGE value="add cname" />
+    <MESSAGE value="add weibo uid" />
+    <option name="LAST_COMMIT_MESSAGE" value="add weibo uid" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2270" y="275" key="Github.ShareDialog" timestamp="1635732570959">
@@ -86,10 +102,10 @@
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
     <state x="2208" y="80" key="Github.UntrackedFilesDialog/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635732577315" />
-    <state x="2000" y="111" key="Vcs.Push.Dialog.v2" timestamp="1635733237688">
+    <state x="2000" y="111" key="Vcs.Push.Dialog.v2" timestamp="1635733579303">
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
-    <state x="2000" y="111" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635733237688" />
+    <state x="2000" y="111" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635733579303" />
     <state x="2092" y="126" width="615" height="490" key="find.popup" timestamp="1635733309790">
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
