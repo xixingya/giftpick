@@ -73,6 +73,7 @@
       <workItem from="1635732152642" duration="1628000" />
       <workItem from="1635734075978" duration="237000" />
       <workItem from="1635735183539" duration="30000" />
+      <workItem from="1635741587974" duration="647000" />
     </task>
     <task id="LOCAL-00001" summary="change to https">
       <created>1635733170859</created>
@@ -116,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635733724973</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add weibo uid">
+      <created>1635741608243</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635741608243</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,10 +161,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="add weibo uid" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1540" y="-57" width="1720" height="857" key="DiffContextDialog" timestamp="1635735212768">
+    <state x="1964" y="70" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635741596573">
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
-    <state x="1540" y="-57" width="1720" height="857" key="DiffContextDialog/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635735212768" />
+    <state x="1964" y="70" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635741596573" />
+    <state x="1540" y="-57" width="1720" height="857" key="DiffContextDialog" timestamp="1635742236942">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="1540" y="-57" width="1720" height="857" key="DiffContextDialog/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635742236942" />
     <state x="2270" y="275" key="Github.ShareDialog" timestamp="1635732570959">
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
@@ -165,10 +177,10 @@
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
     <state x="2208" y="80" key="Github.UntrackedFilesDialog/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635732577315" />
-    <state x="2000" y="111" key="Vcs.Push.Dialog.v2" timestamp="1635733726294">
+    <state x="2000" y="111" key="Vcs.Push.Dialog.v2" timestamp="1635741609507">
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
-    <state x="2000" y="111" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635733726294" />
+    <state x="2000" y="111" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635741609507" />
     <state x="2092" y="126" width="615" height="490" key="find.popup" timestamp="1635734287787">
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
