@@ -1,7 +1,7 @@
         $i = 0;
         $('#start').click(function(){
             $i++;
-            if($i >=6 ){
+            if($i >=16 ){
                 $('#start').hide();
                 $('#stop').show();
             }
