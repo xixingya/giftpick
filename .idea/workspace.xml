@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6630811-458f-49b9-a40c-b84d80b68065" name="Default Changelist" comment="add weibo uid" />
+    <list default="true" id="a6630811-458f-49b9-a40c-b84d80b68065" name="Default Changelist" comment="remove weibo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +74,8 @@
       <workItem from="1635732152642" duration="1628000" />
       <workItem from="1635734075978" duration="237000" />
       <workItem from="1635735183539" duration="30000" />
-      <workItem from="1635741587974" duration="1005000" />
+      <workItem from="1635741587974" duration="1209000" />
+      <workItem from="1635746540806" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="change to https">
       <created>1635733170859</created>
@@ -129,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635742285878</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add weibo uid">
+      <created>1635742642908</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635742642908</updated>
+    </task>
+    <task id="LOCAL-00010" summary="remove weibo">
+      <created>1635742791637</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1635742791637</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,17 +181,18 @@
     <MESSAGE value="change to https" />
     <MESSAGE value="add cname" />
     <MESSAGE value="add weibo uid" />
-    <option name="LAST_COMMIT_MESSAGE" value="add weibo uid" />
+    <MESSAGE value="remove weibo" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove weibo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1964" y="70" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635741596573">
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
     <state x="1964" y="70" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635741596573" />
-    <state x="1540" y="-57" width="1720" height="857" key="DiffContextDialog" timestamp="1635742236942">
+    <state x="1540" y="-78" width="1720" height="876" key="DiffContextDialog" timestamp="1635742800406">
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
-    <state x="1540" y="-57" width="1720" height="857" key="DiffContextDialog/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635742236942" />
+    <state x="1540" y="-78" width="1720" height="876" key="DiffContextDialog/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635742800406" />
     <state x="2270" y="275" key="Github.ShareDialog" timestamp="1635732570959">
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
@@ -182,10 +201,10 @@
       <screen x="1440" y="-157" width="1920" height="1057" />
     </state>
     <state x="2208" y="80" key="Github.UntrackedFilesDialog/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635732577315" />
-    <state x="2000" y="94" key="Vcs.Push.Dialog.v2" timestamp="1635742287157">
+    <state x="2000" y="94" key="Vcs.Push.Dialog.v2" timestamp="1635742792974">
       <screen x="1440" y="-180" width="1920" height="1080" />
     </state>
-    <state x="2000" y="94" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1635742287157" />
+    <state x="2000" y="94" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1635742792974" />
     <state x="2000" y="111" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1635741609507" />
     <state x="2092" y="126" width="615" height="490" key="find.popup" timestamp="1635734287787">
       <screen x="1440" y="-157" width="1920" height="1057" />
